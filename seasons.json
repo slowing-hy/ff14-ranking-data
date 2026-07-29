@@ -1,0 +1,21 @@
+{
+  "seasons": [
+    {
+      "id": "s38",
+      "name": "绗?5璧涘",
+      "api_season_id": "38",
+      "start_date": "2025-07-15",
+      "end_date": "2025-07-27",
+      "is_current": false
+    },
+    {
+      "id": "s39",
+      "name": "绗?6璧涘",
+      "api_season_id": "39",
+      "start_date": "2025-07-28",
+      "end_date": "2025-10-15",
+      "is_current": true
+    }
+  ],
+  "current": "s39"
+}

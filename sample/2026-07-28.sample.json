@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-28",
+  "season": "s14",
+  "fetched_at": "2026-07-28T17:35:00+08:00",
+  "rankings": [
+    {
+      "rank": 1,
+      "player_name": "绀轰緥鐜╁",
+      "server": "闄嗚楦?,
+      "rating": 2500,
+      "wins": 120,
+      "losses": 30,
+      "total_matches": 150,
+      "win_rate": 0.80,
+      "tier": null,
+      "sub_tier": null,
+      "stars": null,
+      "score_within_tier": null
+    },
+    {
+      "rank": 2,
+      "player_name": "鍙︿竴浣嶇帺瀹?,
+      "server": "鑾彜鍔?,
+      "rating": 2450,
+      "wins": 110,
+      "losses": 35,
+      "total_matches": 145,
+      "win_rate": 0.7586,
+      "tier": null,
+      "sub_tier": null,
+      "stars": null,
+      "score_within_tier": null
+    }
+  ]
+}
