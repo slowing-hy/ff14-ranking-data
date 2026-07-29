@@ -2,20 +2,36 @@
   "seasons": [
     {
       "id": "s38",
-      "name": "绗?5璧涘",
+      "name": "15赛季",
       "api_season_id": "38",
       "start_date": "2025-07-15",
       "end_date": "2025-07-27",
       "is_current": false
     },
-    {
-      "id": "s39",
-      "name": "绗?6璧涘",
-      "api_season_id": "39",
-      "start_date": "2025-07-28",
-      "end_date": "2025-10-15",
-      "is_current": true
-    }
+        {
+      "id": "s41",
+      "name": "18赛季",
+      "api_season_id": "41",
+      "start_date": "2026-04-15",
+      "end_date": "2026-05-27",
+      "is_current": false
+    },
+        {
+      "id": "s42",
+      "name": "19赛季",
+      "api_season_id": "42",
+      "start_date": "2026-05-16",
+      "end_date": "2026-07-27",
+      "is_current": false
+    },
+        {
+      "id": "s43",
+      "name": "20赛季",
+      "api_season_id": "43",
+      "start_date": "2026-07-28",
+      "end_date": "2026-10-15",
+      "is_current": false
+    },
   ],
   "current": "s39"
 }
