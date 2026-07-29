@@ -1,37 +1,37 @@
 {
   "seasons": [
     {
-      "id": "s38",
-      "name": "15赛季",
+      "id": "s15",
+      "name": "第15赛季",
       "api_season_id": "38",
       "start_date": "2025-07-15",
       "end_date": "2025-07-27",
       "is_current": false
     },
-        {
-      "id": "s41",
-      "name": "18赛季",
+    {
+      "id": "s18",
+      "name": "第18赛季",
       "api_season_id": "41",
       "start_date": "2026-04-15",
-      "end_date": "2026-05-27",
+      "end_date": "2026-05-15",
       "is_current": false
     },
-        {
-      "id": "s42",
-      "name": "19赛季",
+    {
+      "id": "s19",
+      "name": "第19赛季",
       "api_season_id": "42",
       "start_date": "2026-05-16",
       "end_date": "2026-07-27",
       "is_current": false
     },
-        {
-      "id": "s43",
-      "name": "20赛季",
+    {
+      "id": "s20",
+      "name": "第20赛季",
       "api_season_id": "43",
       "start_date": "2026-07-28",
       "end_date": "2026-10-15",
-      "is_current": false
-    },
+      "is_current": true
+    }
   ],
-  "current": "s39"
+  "current": "s20"
 }
