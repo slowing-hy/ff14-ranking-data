@@ -3,11 +3,11 @@
     {
       "id": "s21",
       "name": "第21赛季",
-      "api_season_id": "43",
+      "api_season_id": "44",
       "start_date": "2026-07-28",
       "end_date": "2026-10-15",
       "is_current": true
     }
   ],
-  "current": "s20"
+  "current": "s21"
 }
